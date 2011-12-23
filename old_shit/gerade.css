@@ -1,0 +1,29 @@
+/*
+ *
+ * author: marco koch
+ * date:   29.01.10
+ * green
+ *
+ */
+
+
+
+
+body {
+	font-family:Helvetica;
+	background-color:black;
+	font-size:45px;
+	padding:50px;
+	letter-spacing:1px;
+	color:rgb(171, 197, 7);
+}
+		
+a:active, a:visited, a:link {
+	color:rgb(171, 197, 7);
+	text-decoration:none;			
+}
+
+a:hover {
+	color:rgb(171, 197, 7);
+	text-decoration:underline;			
+}
