@@ -1,0 +1,26 @@
+/* TEAM */
+	Developer:Marco Koch
+	Contact: marco [at] 5th.ch
+	Twitter: @koma5
+	From:Switzerland near Zürich
+
+/* THANKS */
+	mhhh?	
+
+/* SITE */
+	Last update:2011/05/23
+	Language:English
+	Doctype:HTML5
+	IDE:kod
+	Code:https://github.com/koma5/5thch-root
+                                                  
+                      ,,                    ,,             AW 
+               mm   `7MM                  `7MM            ,M' 
+               MM     MM                    MM            MV  
+     M****** mmMMmm   MMpMMMb.      ,p6"bo  MMpMMMb.     AW   
+    .M         MM     MM    MM     6M'  OO  MM    MM    ,M'   
+    |bMMAg.    MM     MM    MM     8M       MM    MM    MV    
+         `Mb   MM     MM    MM  ,, YM.    , MM    MM   AW     
+          jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'     
+    (O)  ,M9                                          MV      
+     6mmm9                                           AW    
