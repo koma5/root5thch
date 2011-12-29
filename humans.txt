@@ -8,7 +8,7 @@
 	mhhh?	
 
 /* SITE */
-	Last update:2011/05/23
+	Last update:2011/12/23
 	Language:English
 	Doctype:HTML5
 	IDE:kod
@@ -23,4 +23,4 @@
          `Mb   MM     MM    MM  ,, YM.    , MM    MM   AW     
           jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'     
     (O)  ,M9                                          MV      
-     6mmm9                                           AW    
+     6mmm9                                           AW
