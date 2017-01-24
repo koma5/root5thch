@@ -1,26 +1,23 @@
 /* TEAM */
-	Developer:Marco Koch
-	Contact: marco [at] 5th.ch
+	Developer: Marco Koch
+	Contact: marco@5th.ch
 	Twitter: @koma5
-	From:Switzerland near Zürich
-
-/* THANKS */
-	mhhh?	
+	From: Switzerland near Zürich
+	bitcoin-address: 15THooMi8k9vy24yMTu9JpP6E5rCQ7Yhiu
+	bitcoin-address: 12komaTvcKm8Ujnepj86PoEhhqE8dd6bDX
 
 /* SITE */
-	Last update:2011/12/23
+	Last update:2017/01/24
 	Language:English
 	Doctype:HTML5
-	IDE:kod
-	Code:https://github.com/koma5/5thch-root
-                                                  
-                      ,,                    ,,             AW 
-               mm   `7MM                  `7MM            ,M' 
-               MM     MM                    MM            MV  
-     M****** mmMMmm   MMpMMMb.      ,p6"bo  MMpMMMb.     AW   
-    .M         MM     MM    MM     6M'  OO  MM    MM    ,M'   
-    |bMMAg.    MM     MM    MM     8M       MM    MM    MV    
-         `Mb   MM     MM    MM  ,, YM.    , MM    MM   AW     
-          jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'     
-    (O)  ,M9                                          MV      
+
+                      ,,                    ,,             AW
+               mm   `7MM                  `7MM            ,M'
+               MM     MM                    MM            MV
+     M****** mmMMmm   MMpMMMb.      ,p6"bo  MMpMMMb.     AW
+    .M         MM     MM    MM     6M'  OO  MM    MM    ,M'
+    |bMMAg.    MM     MM    MM     8M       MM    MM    MV
+         `Mb   MM     MM    MM  ,, YM.    , MM    MM   AW
+          jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'
+    (O)  ,M9                                          MV
      6mmm9                                           AW
