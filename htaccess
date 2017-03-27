@@ -1,0 +1,9 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^www.5th.ch$ [OR]
+RewriteCond %{HTTP_HOST} ^www.wwwww.5th.ch$
+RewriteRule ^(.*)$ https://wwwww.5th.ch/$1 [R=301,L]
+
+RewriteCond %{HTTP_HOST} !^5th.ch$
+RewriteCond %{HTTP_HOST} !^wwwww.5th.ch$
+RewriteRule ^(.*)$ https://5th.ch/$1 [R=301,L]
