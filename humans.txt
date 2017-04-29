@@ -1,15 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+
 /* TEAM */
 	Developer: Marco Koch
 	Contact: marco@5th.ch
 	Twitter: @koma5
 	From: Switzerland near Zürich
-	bitcoin-address: 15THooMi8k9vy24yMTu9JpP6E5rCQ7Yhiu
-	bitcoin-address: 12komaTvcKm8Ujnepj86PoEhhqE8dd6bDX
+	gpg key: <https://pgp.mit.edu/pks/lookup?op=get&search=0xAD344CFB6AAC30F09626F4915A2482053E053997>
+	foaf profile: <http://marcoko.ch/#i>
+	bitcoin-address: 1koma5qm7M1bpJ37zXvrRmVoNJU9KaAVj
 
 /* SITE */
-	Last update:2017/01/24
-	Language:English
-	Doctype:HTML5
+	Last update: 29. April 2017
+	Language: English
+	Doctype: HTML5
 
                       ,,                    ,,             AW
                mm   `7MM                  `7MM            ,M'
@@ -21,3 +26,20 @@
           jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'
     (O)  ,M9                                          MV
      6mmm9                                           AW
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEPz0ZYACzG/Lbc+UIyOV2z+dOmQMFAlkFCrcACgkQyOV2z+dO
+mQOrYw//aqYGNR7NH0ANwLzKaoybHMHOCAJkOk7EQ20T2/CZx6jJKrDVhS+vTggC
+906Yk/Qva7St4y9Ctf0LZYeGcLT4pEo/8u8HBavVE7zU91pzoQYnMiQFZbBhKIv6
+AGu+HYqyd+LjbjgfRG1SbqxXNltIVm7qsvKDNFp0fnURtjKIeQSRLj1HhnYL8DMo
+7TaXosdq3j1kmNfrqRjBza/GSOPEVLqA/CDiyP6RUNgBA+iMyr2TqKGJXm2U3MGA
+uEn00DDEqxZG0VkjPIA0q30oNHR7OCNy7Xem7ZsllAPSDba1NxlkGdynIFiMR7Vs
+ufh40dtPpBOKN6nDR1LXN9EqNF/LJBjCcOKCXW1gGYDL/Ht5uAg2SfPjLklnaquv
+bAtX4Gty31FaxWZ1y8Bsi11fWv74+CAcq0FUE0pUyAmrUW3IpcnpSAFjxl47WWsM
+KrqYdi/xEqjtUmWD++oyldIsCYRDhu3E0793b9ApEqpqO1NnOtzGpKqkRVPw2XiS
+bAh5aylZjb468n4ZGzSrfof40G9gGG4WlLCbJ6e/PTjAUJ/9f2WE2Yf/DJWu1jwo
+rfTdFcQEQSo2A5mIyEKQb2tMNBS8b7wGJh7eHU9XTeltnPMf4mK27gLO/efXs2Lu
+rjPQlE3cZuHRuMBGkHSK/XACh0q1ZBMb7cXvW+0At8NXsluHi0M=
+=FV/U
+-----END PGP SIGNATURE-----
