@@ -12,34 +12,41 @@ Hash: SHA256
 	bitcoin-address: 1koma5qm7M1bpJ37zXvrRmVoNJU9KaAVj
 
 /* SITE */
-	Last update: 29. April 2017
+	Last update: 20. Juli 2017
 	Language: English
 	Doctype: HTML5
 
-                      ,,                    ,,             AW
-               mm   `7MM                  `7MM            ,M'
-               MM     MM                    MM            MV
-     M****** mmMMmm   MMpMMMb.      ,p6"bo  MMpMMMb.     AW
-    .M         MM     MM    MM     6M'  OO  MM    MM    ,M'
-    |bMMAg.    MM     MM    MM     8M       MM    MM    MV
-         `Mb   MM     MM    MM  ,, YM.    , MM    MM   AW
-          jM   `Mbmo.JMML  JMML.db  YMbmd'.JMML  JMML.,M'
-    (O)  ,M9                                          MV
-     6mmm9                                           AW
+                           s                                                             
+        cuuu....uK        :8      .uef^"                       .uef^"                !8F 
+        888888888        .88    :d88E                        :d88E                   88' 
+        8*888**"        :888ooo `888E                    .   `888E                  :88  
+        >  .....      -*8888888  888E .z8k          .udR88N   888E .z8k            .88F  
+        Lz"  ^888Nu     8888     888E~?888L        <888'888k  888E~?888L           :88'  
+        F     '8888k    8888     888E  888E        9888 'Y"   888E  888E           88F   
+        ..     88888>   8888     888E  888E        9888       888E  888E          .88'   
+       @888L   88888   .8888Lu=  888E  888E    .   9888       888E  888E    .     d8F    
+      '8888F   8888F   ^%888*    888E  888E  .@8c  ?8888u../  888E  888E  .@8c   .88     
+       %8F"   d888"      'Y"    m888N= 888> '%888"  "8888P'  m888N= 888> '%888"  d8F     
+        ^"===*%"`                `Y"   888    ^*      "P'     `Y"   888    ^*   :88      
+                                      J88"                         J88"                  
+                                      @%                           @%                    
+                                    :"                           :"                      
+
+
 
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEPz0ZYACzG/Lbc+UIyOV2z+dOmQMFAlkFCrcACgkQyOV2z+dO
-mQOrYw//aqYGNR7NH0ANwLzKaoybHMHOCAJkOk7EQ20T2/CZx6jJKrDVhS+vTggC
-906Yk/Qva7St4y9Ctf0LZYeGcLT4pEo/8u8HBavVE7zU91pzoQYnMiQFZbBhKIv6
-AGu+HYqyd+LjbjgfRG1SbqxXNltIVm7qsvKDNFp0fnURtjKIeQSRLj1HhnYL8DMo
-7TaXosdq3j1kmNfrqRjBza/GSOPEVLqA/CDiyP6RUNgBA+iMyr2TqKGJXm2U3MGA
-uEn00DDEqxZG0VkjPIA0q30oNHR7OCNy7Xem7ZsllAPSDba1NxlkGdynIFiMR7Vs
-ufh40dtPpBOKN6nDR1LXN9EqNF/LJBjCcOKCXW1gGYDL/Ht5uAg2SfPjLklnaquv
-bAtX4Gty31FaxWZ1y8Bsi11fWv74+CAcq0FUE0pUyAmrUW3IpcnpSAFjxl47WWsM
-KrqYdi/xEqjtUmWD++oyldIsCYRDhu3E0793b9ApEqpqO1NnOtzGpKqkRVPw2XiS
-bAh5aylZjb468n4ZGzSrfof40G9gGG4WlLCbJ6e/PTjAUJ/9f2WE2Yf/DJWu1jwo
-rfTdFcQEQSo2A5mIyEKQb2tMNBS8b7wGJh7eHU9XTeltnPMf4mK27gLO/efXs2Lu
-rjPQlE3cZuHRuMBGkHSK/XACh0q1ZBMb7cXvW+0At8NXsluHi0M=
-=FV/U
+iQIzBAEBCAAdFiEEPz0ZYACzG/Lbc+UIyOV2z+dOmQMFAllwUDIACgkQyOV2z+dO
+mQOzZA/8DwF1G1tR5np6SEtoNYUpCYJ4RWraA9/EbXn0ZL6oEYJWW3kvzAh3IyiN
+C+p+wvnXwlBUYELERHHEblWk7vuEQyvk4k2CyxRj7xcLPo2g7H0S+0iDMNIQOxf9
+5BNaZPZ0Q6nIl/5/Ixu4TJPU0p2A9lWD7Q92QXXit4CMoOYYvCTHAkpqB1dGmhLs
+dukSYIhdAR3oANDCAIUUHK+U+Owh8Wi7NyKc/t3YUlncfvnY7KT+PZeXtdEH5c42
+jLu3yuXqi025t+jDaT23ByO83KgSNbpRMpkaDCrEEw6apREZy6EEW+hU5Yy9MK72
+CnXqxuka8TxEF5jzcoH2wavzIfBtth3N/WbDQWU6DVyBiydrVHLfr6oDGYT/ycZF
+6N6VYTfZukvp505e2bk7aH5qhQ1yaT9zhqzrqz6+Xa6IoJbYZk384+bAjrONazC5
+L49ZfmzGAg7ypHiNhgWtyhMwQY3l1qs7NiG5ECCBvYvhAFhHhsL9rrvOoWKgMuaJ
+frTXtEVZp+0qc378HoAqkemwKBAaUQQBWh0DOcaCDV3sqyx6kfX/q1mKg4DXXj5J
+FRi0/XD2Xk5XewD3Choq0bKl76ILt5bcZl4zBk8e3TYeporX6c26AA0Y9VOm9Gsd
+Vuztz2NNQAYXBtPFyhirMJw62LoWZF86swsLYqqz0Qn6klecZ/k=
+=KhFC
 -----END PGP SIGNATURE-----
