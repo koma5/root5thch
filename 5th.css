@@ -180,3 +180,35 @@ a {
 a:hover {
   color: #4d926f;
 }
+
+
+@media screen and (max-width: 480px) {
+
+    #blubb {
+        position: relative;
+        top: 270px;
+        bottom: unset;
+        right: unset;
+    }
+
+    #blubb header h1 {
+        font-size: 130px;
+    }
+
+    #blubb header {
+        transform: rotate(-90deg);
+    }
+
+    #blubb ul.links {
+        position: relative;
+        margin-left: auto;
+        margin-right: auto;
+        top: 120px;
+    }
+
+    #blubb ul.links li{
+        line-height: 1.2em;
+        font-size: 40px;
+    }
+
+}
