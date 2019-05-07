@@ -121,11 +121,11 @@ table {
   border-spacing: 0;
 }
 body {
-  font-family: 'Georgia', Times, serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 #blubb {
   position: fixed;
-  bottom: 170px;
+  bottom: 100px;
   right: 45px;
   text-align: center;
 
@@ -138,7 +138,7 @@ body {
   margin-bottom: 15px;
 }
 #blubb header h1 {
-  font-size: 90px;
+  font-size: 110px;
 }
 #blubb header h1 span {
   color: #4d926f;
